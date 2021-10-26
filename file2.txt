@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is File2,this change was made in main branch
+=======
+This is File2,this change was made in dev branch
+>>>>>>> dev
